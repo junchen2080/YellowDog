@@ -1,2 +1,2 @@
 # YellowDog Android app.  
-(the yellow dog's name is Cheekie-name for a cute gold retriever canine.)
+(the yellow dog's name is Cheekie-a golden retriever canine.)
